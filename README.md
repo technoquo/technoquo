@@ -45,6 +45,8 @@ On a personal level, my interests are sports, family, accesibility,  traveling a
 - [Course Vue with Fernando Herrera](https://www.udemy.com/course/vuejs-fh/)
 - [Course Laravel 9 with Juan de la Torre](https://www.udemy.com/course/curso-laravel-crea-aplicaciones-y-sitios-web-con-php-y-mvc/)
 - [Laracast](https://laracasts.com/)
+- [VueSchool](https://vueschool.io/)
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lelobo/)
