@@ -84,7 +84,7 @@ My skill: command php artisan, MVC, Eloquent and Tailwindcss , Git
 
 Project manager and web accessibility consultant
 
-septiembre de 2016 - Present 
+september 2016 - november 2022
 
 San José, Costa Rica
 
