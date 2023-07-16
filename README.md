@@ -1,7 +1,7 @@
 
 # Leonel López Borbón
 
-I am deaf person and I am a Mid Full-Stack Web Developer. I'm passionate about Front-end and all the tools that that compreden, although I'm also comfortable back-end as well. I consider myself a resolute, dynamic, responsible and always motivated by learning.
+I am a deaf professional and an experienced Mid Full-Stack Web Developer. I possess a strong passion for Front-end development and proficiently work with various associated tools. Moreover, I am equally adept at back-end development. I pride myself on being resourceful, dynamic, responsible, and consistently motivated to learn and grow.
 
 On a personal level, my interests are sports, family, accesibility,  traveling and movies
 
